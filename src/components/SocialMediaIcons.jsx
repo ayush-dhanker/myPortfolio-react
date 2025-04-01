@@ -16,7 +16,7 @@ const SocialMediaIcons = () => {
         rel="noreferrer"
         style={{ height: "30px", width: "50px", paddingTop: "4px" }}
       >
-        <img alt="github-link" src="../assets/Github_Logo.png" />
+        <img alt="github-link" src="../assets/GitHub_Logo.png" />
       </a>
       {/* <a
         className="hover:opacity-50 transition duration-500 bg-deep-blue"
