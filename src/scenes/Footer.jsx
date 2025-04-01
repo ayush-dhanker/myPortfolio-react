@@ -10,7 +10,7 @@ const Footer = () => {
             AYUSH DHANKER
           </p>
           <p className="font-playfair text-md text-yellow">
-            ©2023. All Rights Reserved.
+            ©2025. All Rights Reserved.
           </p>
         </div>
       </div>
