@@ -24,7 +24,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7 text-deep-blue fw-m">
-            ReactJs, JavaScript, Redux, HTML, CSS, Git, MERN Stack, JQuery
+            ReactJs, JavaScript, Redux,Pyhton ,HTML, CSS, Git, JQuery
           </p>
         </motion.div>
 
@@ -70,13 +70,16 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5 text-deep-blue fw-m">
-            I have an experience of 6 months as a Software Development Inten, I
+{/*             I have an experience of 6 months as a Software Development Inten, I
             utilized React, Redux, JavaScript, CSS, and HTML to contribute to
-            the development of web applications.
+            the development of web applications. */}
+            Junior Web Developer with 6 months of experience and 8 months as a Software 
+            Development Intern. Skilled in React, Redux, JavaScript, HTML, CSS, and CMS, 
+            with hands-on experience in developing and enhancing web applications.
           </p>
         </motion.div>
 
-        {/* INNOVATIVE */}
+        {/* currently */}
         <motion.div
           className="md:w-1/3 mt-10"
           initial="hidden"
@@ -92,16 +95,18 @@ const MySkills = () => {
             <div className="z-10 text-deep-blue">
               <p className="font-playfair font-semibold text-5xl">02</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Innovative
+                Present
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5 text-deep-blue fw-m">
-            As a frontend developer, my focus is on driving innovation in the
+{/*             As a frontend developer, my focus is on driving innovation in the
             field. By staying up-to-date with the latest trends and advancements
             in web development Actively exploring new technologies and
-            frameworks.
+            frameworks. */}
+            After completing my bachelor's in Computer Science, I am currently pursuing a 
+            Master's in Data and Knowledge Engineering, exploring the vast world of Data Science.
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
@@ -120,16 +125,14 @@ const MySkills = () => {
             <div className="z-10 text-deep-blue">
               <p className="font-playfair font-semibold text-5xl">03</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Imaginative
+                Motivation
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5 text-deep-blue fw-m">
-            As a frontend developer, I consistently embrace imagination as a
-            driving force in my work. I recognize the importance of creativity
-            in creating unique and engaging user experiences. I actively seek
-            inspiration from various sources
+            Passionate about learning and exploring new technologies, with a
+            strong drive for continuous growth and innovation in the tech industry.
           </p>
         </motion.div>
       </div>
